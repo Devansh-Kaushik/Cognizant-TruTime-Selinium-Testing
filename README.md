@@ -1,6 +1,6 @@
 # Tru Time Validation Project
 
-## Overview
+
 The Tru Time Validation project focuses on automating the process of validating current week details from the Tru Time application and comparing them with the system calendar. The project also aims to verify the visibility of the current date within the Tru Time application. Web scraping and automation techniques are utilized to extract and analyze the required information.
 
 ![Problem Statement Image](Screenshots/Be_Cognizant.png)
