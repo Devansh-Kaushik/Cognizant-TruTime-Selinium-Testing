@@ -29,7 +29,7 @@ The project's automation scope includes the following key aspects:
 ![Final_Images](Screenshots/TruTime.png)
 
 ## Note
-Data_Excel: The File is not present in src/resource which contained all the login  credentials. Make sure u make a Excel file keep it in that path and use it to
+Excel_Data: The File is not present in src/resource which contained all the login  credentials. Make sure u make a Excel file keep it in that path and use it to
 run the login script.
 
 Drivers: The provided zip file does not include the necessary browser drivers (e.g., Chrome driver and Edge driver) due to size constraints. Participants need to install the required drivers separately and include them in the automation framework.
