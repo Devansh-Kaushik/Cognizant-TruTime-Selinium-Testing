@@ -69,7 +69,7 @@ public class Profile_data {
         onecognizant_Section.click();
         logger.log(Status.INFO, "OneCognizant section container class got clicked");
         
-        By locator = By.xpath("//div[@data-automation-id=\"button-card\"]//div[text()='OneCognizant']");
+        By locator = By.xpath("//div[text()='OneCognizant']");
         WebDriverWait delay = new WebDriverWait(driver, Duration.ofSeconds(20));
         delay.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
         
